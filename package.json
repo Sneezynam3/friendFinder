@@ -20,6 +20,7 @@
   "homepage": "https://github.com/Sneezynam3/friendFinder#readme",
   "dependencies": {
     "express": "^4.17.1",
+    "mysql": "^2.17.1",
     "path": "^0.12.7"
   }
 }

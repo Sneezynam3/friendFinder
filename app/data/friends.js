@@ -1,4 +1,4 @@
-[
+var friends = [
     {
     "name": "Cat",
     "photo": "https://.jpg",
@@ -63,3 +63,6 @@
     "3"
     ]
     }
+];
+
+module.exports = friends;
