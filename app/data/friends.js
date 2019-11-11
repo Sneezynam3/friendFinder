@@ -1,7 +1,7 @@
 var friends = [
     {
     "name": "Cat",
-    "photo": "https://.jpg",
+    "photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSoHbOz-iLHmn2gG5IfWo14pyON1THCjAsa5k5nACKyrE_Az3F8",
     "scores": [
     "1",
     "4",
@@ -17,7 +17,7 @@ var friends = [
     },
     {
     "name": "Dog",
-    "photo": "https://.jpg",
+    "photo": "https://s3.amazonaws.com/cdn-origin-etr.akc.org/wp-content/uploads/2017/11/12234558/Chinook-On-White-03.jpg",
     "scores": [
     "5",
     "2",
@@ -33,7 +33,7 @@ var friends = [
     },
     {
     "name": "Squirrel",
-    "photo": "https://.jpeg",
+    "photo": "https://media.npr.org/assets/img/2017/04/25/istock-115796521-fcf434f36d3d0865301cdcb9c996cfd80578ca99-s800-c85.jpg",
     "scores": [
     "1",
     "3",
@@ -49,7 +49,7 @@ var friends = [
     },
     {
     "name": "Child",
-    "photo": "https://.jpg",
+    "photo": "https://cdn.mindful.org/YesBrain.jpg?q=80&fm=jpg&fit=crop&w=1920&h=1080",
     "scores": [
     "3",
     "5",
